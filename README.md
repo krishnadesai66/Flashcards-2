@@ -1,4 +1,3 @@
-# Flashcards-2
 # Web Development Project 3 - *Name of App Here*
 
 Submitted by: **Your Name Here**
